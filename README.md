@@ -58,9 +58,9 @@ The analysis includes basic data exploration, statistical analysis, data filteri
 
    - Branches Table (Branch details)
 
-   -Products Table (Product categories)
+   - Products Table (Product categories)
 
-   -Orders Table (Sales transactions)
+   - Orders Table (Sales transactions)
 
 - Executed queries to:
 
